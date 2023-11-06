@@ -81,4 +81,5 @@ Fornt-end commands:
 - npx tailwindcss init
 - npm install @heroicons/react
 - npm install @headlessui/react
+- npm i react-alice-carousel
 
